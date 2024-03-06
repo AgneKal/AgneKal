@@ -1,5 +1,6 @@
+![MasterHead](.)
 <h1 align="center">Hi 👋, I'm Agne.</h1>
-<h3 align="center">I am a person who dreams and works hard to become a professional programmer.</h3>
+<h3 align="center">I am the person who dreams and works hard to become a professional programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnekal&label=Profile%20views&color=0e75b6&style=flat" alt="agnekal" /> </p>
 
