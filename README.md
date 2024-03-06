@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AgneKal](https://github.com/AgneKal)
 
-<h3 align="left">Connect with me: Linkedin(https://www.linkedin.com/in/agne-kalinauskiene-ba8b8aa9/)</h3>
+<h3 align="left">Connect with me: [Linkedin](https://www.linkedin.com/in/agne-kalinauskiene-ba8b8aa9/)</h3>
 <p align="left">
 </p>
 
