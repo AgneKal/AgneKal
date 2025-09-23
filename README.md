@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agnekal&label=Profile%20views&color=0e75b6&style=flat" alt="agnekal" /> </p>
 
-- 🌱 I’m currently learning MEAN stack
-
 - 👨‍💻 All of my projects are available at [https://github.com/AgneKal](https://github.com/AgneKal)
   
 - Connect with me: [Linkedin](https://www.linkedin.com/in/agne-kalinauskiene-ba8b8aa9)
